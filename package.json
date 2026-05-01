@@ -6,9 +6,25 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   },
-  "devDependencies": {}
+  "name": "ramji-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramji45-k/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramji45-k/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Ramji45-k/Portfolio#readme",
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
 }
