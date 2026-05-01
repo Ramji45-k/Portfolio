@@ -5,7 +5,6 @@
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
   },
@@ -25,6 +24,7 @@
   },
   "homepage": "https://github.com/Ramji45-k/Portfolio#readme",
   "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
     "vite": "^8.0.10"
   }
 }
